@@ -26,7 +26,7 @@ authorities, you may want to use Notify now but for whatever reason can't make
 use of the rest API interface nor use the web interface due to the volume of the
 notifications you wish to send. This simple command line tool is designed to
 solve this issue; you may be able to build a user centred frontend to your service
-but the line of business system still runs as a [Open road](), [Cobal]() or a
+but the line of business system still runs as a [Open road](https://en.wikipedia.org/wiki/OpenROAD), [Cobol](https://en.wikipedia.org/wiki/COBOL) or a
 vendor doesn't support a pluggable approach.
 
 # To do
